@@ -41,3 +41,6 @@ cmd/euclidgen/euclidgen
 
 # Ignore audio files
 *.wav
+
+# Generated examples directory
+cmd/euclidgen/examples/
