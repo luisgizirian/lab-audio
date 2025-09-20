@@ -38,6 +38,7 @@ cmd/euclidgen/__debug_bin*
 
 # Module binaries
 cmd/euclidgen/euclidgen
+cmd/euclidgen/main
 
 # Ignore audio files
 *.wav
