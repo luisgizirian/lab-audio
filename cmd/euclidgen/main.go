@@ -8,11 +8,10 @@ package main
 
 import (
 	"fmt"
-	"os"
-
 	"github.com/go-audio/audio"
 	"github.com/go-audio/wav"
 	"math"
+	"os"
 )
 
 // bjorklund generates a Euclidean rhythm pattern using the Bjorklund algorithm.
